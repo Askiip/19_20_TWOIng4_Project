@@ -1,5 +1,11 @@
 -------------------------------------------------------------------------------------------------------
 Borie Alice -- Lajeune Gaétan -- OCRES TD02 -- https://github.com/Tramirostronix/React_project.git
+
+branche valide du projet : finduprojet
+
+commande back : npm run server / commande front : npm start
+
+Trello : https://trello.com/b/7Dq6TX79/projet-react
 -------------------------------------------------------------------------------------------------------
 
 # Projet de fin de semestre
